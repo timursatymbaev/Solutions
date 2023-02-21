@@ -54,3 +54,10 @@ Create travelling agency system, using SOLID principles. Use PostgreSQL for sign
 - Your work must contain one abstract class, nine classes, two interfaces.
 - Use inheritance, polymorphism and encapsulation principles.
 - Use JDBC and provide connection for manipulating your table in PostgreSQL database.
+
+# Assignment 4
+Create coffee shop, using following design patterns:
+
+- Singleton
+- Builder
+- Factory
